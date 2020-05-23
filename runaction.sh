@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd '$GITHUB_WORKSPACE' || exit 1
+cd '$GITHUB_WORKSPACE" || exit 1
 
 err=0
 
